@@ -19,4 +19,6 @@ Cara pakai.
 		$bni = new CekBNI($config);
 		var_dump($bni->toArray());
 
-lihat example.php
+lebih lengkap lihat example.php
+
+[Butuh bantuan lain? hubungi saya via telegram](https://t.me/galihazizif)
