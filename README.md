@@ -1,9 +1,10 @@
-##Script Cek mutasi BNI
+## Script Cek mutasi BNI
 
+Hasil waktu luang pas weekend.
 
 Cara pakai. 
 
-		require_once 'build/mutasi_bni.phar';
+		require_once 'src/CekBNI.php';
 		$config = [
 		        'credential' => [
 		            'username' => 'jenengmu',
